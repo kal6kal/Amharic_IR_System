@@ -1,4 +1,7 @@
  Amharic Information Retrieval Project
+ 
+ Group Project
+This project was developed as part of a **collaborative coursework initiative** at Addis Ababa University. Team members contributed across multiple areas including web crawling, data preprocessing, statistical analysis, vector space modeling, and GUI development. My role focused primarily on **UI improvements, documentation, testing, and team coordination**. All contributions are traceable and part of the shared project repository.
 
  Introduction
 This project is an Amharic information retrieval system that consists of the following components:
@@ -11,7 +14,7 @@ This project is an Amharic information retrieval system that consists of the fol
 - **Vector Space Model**: Uses the inverted index to build a vector space model employing cosine similarity for information retrieval.
 - **Search Engine GUI**: Provides a user interface linking queries to the relevant websites where the resources were found.
 
-### Usage
+Usage
 - **Web Crawling**: The web spider component downloads Amharic files from the internet, expanding the corpus.
 - **PDF to Image Conversion**: Processes the downloaded PDF files, converting them to images for text extraction.
 - **Text Processing**: Extracted text is tokenized, punctuation is removed, then normalized and stemmed, followed by statistical analysis.
