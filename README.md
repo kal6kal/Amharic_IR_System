@@ -1,6 +1,6 @@
-## Amharic Information Retrieval Project
+ Amharic Information Retrieval Project
 
-### Introduction
+ Introduction
 This project is an Amharic information retrieval system that consists of the following components:
 
 - **Web Spider**: Downloads Amharic files from the internet.
@@ -19,7 +19,7 @@ This project is an Amharic information retrieval system that consists of the fol
 - **Vector Space Model**: The inverted index is used to create a vector space model, employing cosine similarity for retrieval.
 - **Search Engine GUI**: Users can search for relevant documents using the GUI. Queries link to the relevant websites where the resources were found.
 
-### My Contributions
+My Contributions
 My contributions focused on **user interface, usability, and non-code support** for the project. Specifically, I:
 
 - Improved the **Search Engine GUI** by refining labels, button placement, and sidebar toggle behavior for better usability.
@@ -34,7 +34,7 @@ My contributions focused on **user interface, usability, and non-code support** 
 
 These contributions highlight my **non-code and UI-focused involvement**, while ensuring that all changes are traceable in the project history.
 
-### Installation and Setup
+Installation and Setup
 1. Clone the repository:  
 ```bash
 git clone https://github.com/your-username/amharic-information-retrieval.git
